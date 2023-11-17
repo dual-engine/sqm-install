@@ -8,7 +8,7 @@
       "email": "87291030@qq.com"
     }
   ],
-  "license": "Apache-2.0",
+  "license": "LGPL-2.1",
   "autoload": {
     "psr-4": {
       "think\\admin\\install\\": "src"
